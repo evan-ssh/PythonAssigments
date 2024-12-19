@@ -5,8 +5,8 @@ def main():
 
     per_oz_64 = price_64 / 64
     per_oz_32 = price_32 / 32
-    print(f"price per oz (64 oz): {per_oz_64:.2}")
-    print(f"price per oz (64 oz): {per_oz_32:.2}")
+    print(f"price per oz (64 oz): {per_oz_64:.2f}")
+    print(f"price per oz (64 oz): {per_oz_32:.2f}")
 
 
 main()
