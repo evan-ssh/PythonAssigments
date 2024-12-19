@@ -8,5 +8,5 @@ def main():
     print(f"price per oz (64 oz): {per_oz_64:.2}")
     print(f"price per oz (64 oz): {per_oz_32:.2}")
 
-if __name__ == "main":
-    main()
+
+main()
